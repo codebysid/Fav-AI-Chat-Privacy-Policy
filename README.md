@@ -12,7 +12,7 @@
 
 Fav AI Chat may request certain permissions, such as:
 - **Chrome storage:** This is used to store your settings or preferences locally within your browser.
-- **Other permissions:** Any additional permissions are used strictly to provide the extension's functionality and are not used to access or store any personal information.
+- **Other permissions:** Host Permission for ChatGPT domain is used strictly to provide the extension's functionality and are not used to access or store any personal information.
 
 We only request permissions essential for the extension to function as intended. No additional data is accessed or transmitted.
 
