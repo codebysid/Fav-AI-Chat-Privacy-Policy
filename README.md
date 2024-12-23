@@ -1,7 +1,4 @@
 # Fav-AI-Chat-Privacy-Policy
-# Privacy Policy for [Your Extension Name]
-
-Thank you for using [Your Extension Name]. Your privacy is important to us, and we are committed to ensuring that your data remains private and secure.
 
 ---
 
